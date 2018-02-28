@@ -1,0 +1,4 @@
+Zainstalowałem JAVA JDK 9.0.4
+Zainstalowałem środowisko do programownaia w JAVA - Intellij IDEA
+Stworzyłem program wypisujący napis "Hello world"
+Edytowałem program tak by wypisywał moje imie i nazwisko
